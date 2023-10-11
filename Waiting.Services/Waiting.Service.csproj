@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Waiting.Data\Waiting.Data.csproj" />
+    <ProjectReference Include="..\Waiting.Infraestructure\Waiting.Infraestructure.csproj" />
+  </ItemGroup>
+
+</Project>

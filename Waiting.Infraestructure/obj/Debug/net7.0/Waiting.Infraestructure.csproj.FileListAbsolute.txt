@@ -1,0 +1,12 @@
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\bin\Debug\net7.0\Waiting.Infraestructure.deps.json
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\bin\Debug\net7.0\Waiting.Infraestructure.dll
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\bin\Debug\net7.0\Waiting.Infraestructure.pdb
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\Waiting.Infraestructure.csproj.AssemblyReference.cache
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\Waiting.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\Waiting.Infraestructure.AssemblyInfoInputs.cache
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\Waiting.Infraestructure.AssemblyInfo.cs
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\Waiting.Infraestructure.csproj.CoreCompileInputs.cache
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\Waiting.Infraestructure.dll
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\refint\Waiting.Infraestructure.dll
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\Waiting.Infraestructure.pdb
+C:\proyectos\project_W\Waiting\Waiting.Infraestructure\obj\Debug\net7.0\ref\Waiting.Infraestructure.dll
